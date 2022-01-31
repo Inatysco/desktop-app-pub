@@ -1,1 +1,1 @@
-# descktop-app-pub
+# desktop-app-pub
